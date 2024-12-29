@@ -19,3 +19,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rersad1&theme=aura_dark" alt="Stats" width="400" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rersad1&theme=aura_dark&utcOffset=8" alt="Productive Time" width="400" />
 </div>
+
+---
+
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/rersad)
