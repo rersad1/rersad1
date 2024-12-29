@@ -19,9 +19,3 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rersad1&theme=aura_dark" alt="Stats" width="400" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rersad1&theme=aura_dark&utcOffset=8" alt="Productive Time" width="400" />
 </div>
-
----
-
-<div align="center">
-  <img src="https://github.com/rersad1/rersad1/blob/main/github-metrics.svg" alt="Metrics" width="800">
-</div>
