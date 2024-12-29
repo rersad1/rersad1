@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=00FFCC&width=500&lines=%20%20Hello%2C+World!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=00FFCC&width=500&lines=%20%20%20%20%20%20%20%20Hello%2C+World!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,3 +20,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rersad1&theme=aura_dark&utcOffset=8" alt="Productive Time" width="400" />
 </div>
 
+---
+
+<div align="center">
+  <img src="https://github.com/rersad1/rersad1/blob/main/github-metrics.svg" alt="Metrics" width="800">
+</div>
